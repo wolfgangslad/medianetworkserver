@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.org/xbmc/xbmc.svg?branch=master)](https://travis-ci.org/xbmc/xbmc)
-[![Documentation](https://codedocs.xyz/xbmc/xbmc.svg)](https://codedocs.xyz/xbmc/xbmc/)
-
-![Kodi logo](https://raw.githubusercontent.com/xbmc/xbmc-forum/master/xbmc/images/logo-sbs-black.png)
+![BMAsia Logo](https://www.bmasiamusic.com/files/2016/03/logo_200.png)
 # Kodi Home Theater Software
 
 **Welcome to Kodi!**
